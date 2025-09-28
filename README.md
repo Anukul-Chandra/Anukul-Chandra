@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Currently I'm 4th Year running CSE Student from Daffodil International University.<br><br>- 🔭 I'm working as a Machine Learning Engineer (student projects, internships)<br>- 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment<br>- ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling, and playing sports</p>
+<p align="left">- Currently I'm 4th Year running CSE Student at Daffodil International University.<br><br>- 🔭 I'm working as a Machine Learning Engineer (student projects, internships)<br>- 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment<br>- ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling, and playing sports</p>
 
 ### I have technical experience and interest in:
 
