@@ -15,15 +15,17 @@
 - 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment
 - ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling,watching movies and playing online Games.
 
+ --- 
+
 ## 🧰 I have technical experience and interest in:
 
 * Machine Learning
 * Natural Language Processing
 * MLOps
-* Microcontrollers 
+* Microcontrollers
+* Data Science 
   
-###
-
+---
 
 # 📂 Featured Projects  
 
@@ -50,10 +52,11 @@ This project serves personalized movie suggestions powered by a Machine Learning
 - Learning Data Sceience and NLP 
 - Learning Artificial Intelligence Core concept 
 
+---
 
-<h3 align="left">🛠 Language and tools : </h3>
+<h3 align="left"> 🧰 🛠 Language and tools : </h3>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -89,7 +92,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anukul-Chandra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -102,7 +105,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anukul-Chandra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## You Can Also find me here :
+## 🤝 You Can Also find me here :
 
 ###
 
