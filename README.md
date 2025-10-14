@@ -54,7 +54,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 
 ---
 
-<h3 align="left"> 🧰 🛠 Language and tools : </h3>
+<h2 align="left"> 🧰 🛠 Language and tools : </h2>
 
 ##
 
@@ -96,9 +96,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 
 ##
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anukul-Chandra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
 ###
 
@@ -108,8 +106,6 @@ This project serves personalized movie suggestions powered by a Machine Learning
 </div>
 
 ## 🤝 You Can Also find me here :
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anukul-chandra-5585-/" target="_blank">
@@ -124,10 +120,8 @@ This project serves personalized movie suggestions powered by a Machine Learning
   </a>
 </div>
 
+---
+
 <h4 align="center">⭐ Thanks for visiting my profile! Keep learning and analyzing 🚀</h4>
 
 
-###
-
-
-###
