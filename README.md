@@ -5,16 +5,17 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
+<h3 align="center">Machine Learning Engineeer | Python • MLOpS • Pandas • Numpy </h3>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me :</h3>
+## 👩‍💻  About Me : 
+- 📚 Currently I'm 4th Year running CSE Student at Daffodil International University.  
+- 🔭 I'm working as a Machine Learning Engineer (student projects, internships)
+- 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment
+- ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling,watching movies and playing online Games.
 
-###
-
-<p align="left">- Currently I'm 4th Year running CSE Student at Daffodil International University.<br><br>- 🔭 I'm working as a Machine Learning Engineer (student projects, internships)<br>- 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment<br>- ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling,watching movies and playing online Games</p>
-
-### I have technical experience and interest in:
+## 🧰 I have technical experience and interest in:
 
 * Machine Learning
 * Natural Language Processing
@@ -22,6 +23,33 @@
 * Microcontrollers 
   
 ###
+
+
+# 📂 Featured Projects  
+
+###  🎬 **[Movie Recommendation System with FastAPI](https://github.com/Anukul-Chandra/Movie-Recommendation-Project-With-FastApi)**
+- 🍽️ Content Based Movie Recommend With FastApi:
+  → A production-ready Movie Recommendation Web API built using FastAPI.
+This project serves personalized movie suggestions powered by a Machine Learning model and exposes RESTful endpoints for easy integration with any frontend.
+
+ ---
+
+### 🍕 **[Sentiment Anlysis ](https://github.com/Anukul-Chandra/Sentiment-Analysis-)** 
+ - 🍽️ A sentiment analysis project classifying IMDB movie reviews as positive or negative using machine learning. Includes data preprocessing, model training, and evaluation.
+
+---
+
+### 📊 **[Quora_duplicate_question_prediction](https://github.com/Anukul-Chandra/Quora_duplicate_question_prediction.git)**
+ - 🍽️ NLP project to predict whether two Quora questions are duplicates using text preprocessing, feature engineering, and machine learning. It is deployed on "render ".  
+
+---
+
+## 🌱 Currently Working On 
+
+- Practice Python for advanced Machine learning.
+- Learning Data Sceience and NLP 
+- Learning Artificial Intelligence Core concept 
+
 
 <h3 align="left">🛠 Language and tools : </h3>
 
@@ -90,6 +118,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+<h4 align="center">⭐ Thanks for visiting my profile! Keep learning and analyzing 🚀</h4>
 
 
 ###
