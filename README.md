@@ -46,7 +46,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 
 ---
 
-### 🏥 🩺 **[Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
+### 👨‍⚕️ 🩺 **[ Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
  - 🍽️ A machine learning-driven web application that provides personalized cancer risk predictions. Built with FastAPI and powered by multiple ML models, this tool helps healthcare professionals and researchers analyze genetic mutation data to generate detailed cancer risk assessments..  
 
 ---
