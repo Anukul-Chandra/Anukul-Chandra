@@ -54,7 +54,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ## 🌱 Currently Working On 
 
 - Practice Python for advanced Machine learning.
-- Learning Data Sceience and NLP 
+- Learning Data Science,Deep Learning and NLP 
 - Learning Artificial Intelligence Core concept 
 
 ---
