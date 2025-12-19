@@ -51,6 +51,9 @@ This project serves personalized movie suggestions powered by a Machine Learning
 
 ---
 
+### 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
+-🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
+
 ## 🌱 Currently Working On 
 
 - Practice Python for advanced Machine learning.
