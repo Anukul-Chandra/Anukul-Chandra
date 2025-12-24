@@ -29,29 +29,36 @@
 
 # 📂 Featured Projects  
 
-###  🎬 **[Movie Recommendation System with FastAPI](https://github.com/Anukul-Chandra/Movie-Recommendation-Project-With-FastApi)**
+
+##  📸 **[Smart Attendance System Using Face Recognition](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection/blob/main/README.md)**
+- 🎯 Smart Attendance System Using Face Recognition:
+ → A real-time smart attendance system built using Computer Vision and Machine Learning.
+This project automatically records attendance through face recognition, prevents proxy attendance, and synchronizes records with Google Sheets using secure cloud APIs.
+
+
+##  🎬 **[Movie Recommendation System with FastAPI](https://github.com/Anukul-Chandra/Movie-Recommendation-Project-With-FastApi)**
 - 🍽️ Content Based Movie Recommend With FastApi:
   → A production-ready Movie Recommendation Web API built using FastAPI.
 This project serves personalized movie suggestions powered by a Machine Learning model and exposes RESTful endpoints for easy integration with any frontend.
 
  ---
 
-### 🍕 **[Sentiment Anlysis ](https://github.com/Anukul-Chandra/Sentiment-Analysis-)** 
+## 🍕 **[Sentiment Anlysis ](https://github.com/Anukul-Chandra/Sentiment-Analysis-)** 
  - 🍽️ A sentiment analysis project classifying IMDB movie reviews as positive or negative using machine learning. Includes data preprocessing, model training, and evaluation.
 
 ---
 
-### 📊 **[Quora_duplicate_question_prediction](https://github.com/Anukul-Chandra/Quora_duplicate_question_prediction.git)**
+## 📊 **[Quora_duplicate_question_prediction](https://github.com/Anukul-Chandra/Quora_duplicate_question_prediction.git)**
  - 🍽️ NLP project to predict whether two Quora questions are duplicates using text preprocessing, feature engineering, and machine learning. It is deployed on "render ".  
 
 ---
 
-### 👨‍⚕️ 🩺 **[ Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
+## 👨‍⚕️ 🩺 **[ Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
  - 🍽️ A machine learning-driven web application that provides personalized cancer risk predictions. Built with FastAPI and powered by multiple ML models, this tool helps healthcare professionals and researchers analyze genetic mutation data to generate detailed cancer risk assessments..  
 
 ---
 
-### 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
+## 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
 -🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
 
 ## 🌱 Currently Working On 
