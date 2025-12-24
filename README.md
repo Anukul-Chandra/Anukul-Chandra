@@ -35,6 +35,7 @@
  → A real-time smart attendance system built using Computer Vision and Machine Learning.
 This project automatically records attendance through face recognition, prevents proxy attendance, and synchronizes records with Google Sheets using secure cloud APIs.
 
+--- 
 
 ##  🎬 **[Movie Recommendation System with FastAPI](https://github.com/Anukul-Chandra/Movie-Recommendation-Project-With-FastApi)**
 - 🍽️ Content Based Movie Recommend With FastApi:
