@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
-<h3 align="center">Machine Learning Engineer | Python |FastApi| MLOpS | Scikit-Learn </h3>
+<h3 align="center">Machine Learning Engineer | Python | FastApi | MLOpS | Scikit-Learn </h3>
 
 ---
 
