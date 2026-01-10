@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
-<h3 align="center">Machine Learning Engineer | Python | FastApi | MLOpS | Scikit-Learn </h3>
+<h3 align="center"> Machine Learning Engineer | Python | FastAPI | MLOpS | Scikit-Learn </h3>
 
 ---
 
@@ -138,6 +138,14 @@ This project serves personalized movie suggestions powered by a Machine Learning
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h4 align="center">⭐ Thanks for visiting my profile! Keep learning and analyzing 🚀</h4>
 
