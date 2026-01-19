@@ -62,6 +62,14 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ## 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
 -🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
 
+---
+
+## 🏢 **[Hall Management System](https://github.com/Anukul-Chandra/Hall-Management-System)**
+- 🏠 A Hall Management System built using **Java** and **MySQL** to manage student halls efficiently.  
+  The project implements user authentication, student and employee information management, hall facilities, canteen services, and rules using structured databases, CRUD operations, and object-oriented programming principles.
+
+---
+
 ## 🌱 Currently Working On 
 
 - Practice Python for advanced Machine learning.
