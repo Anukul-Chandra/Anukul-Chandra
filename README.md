@@ -30,8 +30,8 @@
 # 📂 Featured Projects  
 
 
-##  📸 **[Smart Attendance System Using Face Recognition](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection/blob/main/README.md)**
-- 🎯 Smart Attendance System Using Face Recognition:
+##  📸 **[Smart Attendance System Using Face Recognition(On Going) ](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection/blob/main/README.md)**
+- 🎯 Smart Attendance System Using Face Recognition :
  → A real-time smart attendance system built using Computer Vision and Machine Learning.
 This project automatically records attendance through face recognition, prevents proxy attendance, and synchronizes records with Google Sheets using secure cloud APIs.
 
@@ -60,7 +60,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ---
 
 ## 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
--🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
+ - 🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
 
 ---
 
