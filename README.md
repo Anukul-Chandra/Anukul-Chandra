@@ -9,11 +9,11 @@
 
 ---
 
-## 👩‍💻  About Me : 
-- 📚 Currently I'm 4th Year running CSE Student at Daffodil International University.  
-- 🔭 I'm working as a Machine Learning Engineer (student projects, internships)
-- 📚 I'm currently learning advanced machine learning algorithms and MLOps for production-level deployment
-- ⚡ In my free time I work on hands-on ML projects, enjoy coding, traveling,watching movies and playing online Games.
+## 👩‍💻 About Me  
+- 🎓 CSE Graduate from Daffodil International University.  
+- 🔭 Machine Learning Engineer with strong interest in **backend development and FastAPI-based ML systems**.  
+- 📚 I'm currently learning AI Engineering, with hands-on work in advanced Machine Learning, Deep Learning, Large Language Models (LLMs), and MLOps for production-level deployment.  
+- ⚡ In my free time, I build practical ML and backend projects, enjoy coding, traveling, watching movies, and playing online games.
 
  --- 
 
@@ -83,39 +83,73 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ##
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Backend & APIs (VERY IMPORTANT for recruiters) -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?logo=api&logoColor=white&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Data Science & ML -->
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- LLM & AI -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- DevOps & Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Frontend Basics -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40"/>
+
 </div>
 
 ##
