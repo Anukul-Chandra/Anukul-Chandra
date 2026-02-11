@@ -15,9 +15,9 @@
 - 📚 I'm currently learning AI Engineering, with hands-on work in advanced Machine Learning, Deep Learning, Large Language Models (LLMs), and MLOps for production-level deployment.  
 - ⚡ In my free time, I build practical ML and backend projects, enjoy coding, traveling, watching movies, and playing online games.
 
- --- 
 
-# Education
+
+# 🎓 Education
 
 🎓 Bachelor of Science in Computer Science & Engineering
 
