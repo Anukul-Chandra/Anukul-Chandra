@@ -108,8 +108,12 @@
 
 # 📂 Featured Projects  
 
+## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
+- 🎯 Medico AI: Intelligent Medical Assistant :
+ → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically relevant responses based on a curated knowledge base
+---
 
-##  📸 **[Smart Attendance System Using Face Recognition(On Going) ](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection/blob/main/README.md)**
+##  📸 **[Smart Attendance System Using Face Recognition(On Going) ](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection)**
 - 🎯 Smart Attendance System Using Face Recognition :
  → A real-time smart attendance system built using Computer Vision and Machine Learning.
 This project automatically records attendance through face recognition, prevents proxy attendance, and synchronizes records with Google Sheets using secure cloud APIs.
