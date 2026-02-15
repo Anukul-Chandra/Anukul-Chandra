@@ -21,9 +21,9 @@
 
 🎓 Bachelor of Science in Computer Science & Engineering
 
-📍 Daffodil International University 
+- 📍 Daffodil International University 
 
-📅 2022 – 2025
+- 📅 2022 – 2025
 
 ---
 
