@@ -5,25 +5,30 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
-<h3 align="center"> AI / ML Engineer | Python | FastAPI | MLOpS | Scikit-Learn </h3>
+<h3 align="center"> AI / ML Engineer | Python | FastAPI | N8N Automation | Scikit-Learn </h3>
 
 ---
 
-## 👩‍💻 About Me  
-- 🎓 Fresh CSE Graduate.  
-- 🔭 Machine Learning Engineer with strong interest in **backend development and FastAPI-based ML systems**.  
-- 📚 I'm currently learning AI Engineering, with hands-on work in advanced Machine Learning, Deep Learning, Large Language Models (LLMs), and MLOps for production-level deployment.  
-- ⚡ In my free time, I build practical ML and backend projects, enjoy coding, traveling, watching movies, and playing online games.
+# 👩‍💻 About Me  
+- 🎓 Fresh CSE Graduate  
+- 🚀 Currently working as a **AI Engineer** at [**Softvence**](https://softvence.agency/), building scalable AI systems, automation solutions, and backend services.  
+- 🔭 Experienced in **Machine Learning, Deep Learning, LLMs, and AI-powered automation (n8n, APIs, workflows)**  
+- ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready applications**  
+- ⚡ In my free time, I build practical AI projects, explore new technologies, and enjoy traveling, movies, and gaming  
 
 
+# 🏢 Workplace 
+- 🏢 Currently working as an **AI Engineer** at [**Softvence**](https://softvence.agency/), building scalable AI systems, automation solutions, and backend services.
+  -  March 2026- present
+---
 
 # 🎓 Education
 
 🎓 Bachelor of Science in Computer Science & Engineering
 
-- 📍 Daffodil International University 
+ - 📍 Daffodil International University 
 
-- 📅 2022 – 2025
+ - 📅 2022 – 2025
 
 ---
 
@@ -78,6 +83,10 @@
   <img width="12"/>
   <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" height="40"/>
 
+  <img width="20"/>
+  
+  <!-- Automation -->
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?logo=n8n&logoColor=white&style=for-the-badge" height="40"/>
   <img width="20"/>
 
   <!-- Databases -->
