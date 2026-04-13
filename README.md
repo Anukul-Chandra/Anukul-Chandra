@@ -5,9 +5,12 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
-<h3 align="center"> AI / ML Engineer | Python | FastAPI | N8N Automation | Scikit-Learn </h3>
 
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+/+ML+Engineer;Python+Expert;LLM+Fine-Tuning;Automation+Expert;FastAPI+Backend" />
+</p>
+
 
 # 👩‍💻 About Me  
 - 🎓 Fresh CSE Graduate  
@@ -32,20 +35,7 @@
 
 ---
 
-## 🧰 I have technical experience and interest in:
-
-* Machine Learning
-* Natural Language Processing
-* MLOps
-* Microcontrollers
-* Data Science 
-  
----
-
-
 <h2 align="left"> 🧰 🛠 Technical Skills : </h2>
-
-##
 
 <div align="left">
 
@@ -121,8 +111,16 @@
 
 </div>
 
-##
+## 🧰 Technical Expertise :
 
+- 🚀 Scalable AI Systems & Solutions  
+- 🤖 AI Automation & Workflow Engineering (n8n, APIs)  
+- 🧠 Machine Learning & Deep Learning  
+- 💬 Natural Language Processing (NLP) & LLMs  
+- ⚙️ Backend Development (FastAPI, REST APIs)  
+- 🔗 API Integration & System Design  
+- 📊 Data Science & Data Analysis  
+- 🖥️ Microcontrollers & Embedded Systems  
 ---
 
 # 📂 Featured Projects  
