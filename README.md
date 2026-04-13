@@ -11,11 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+/+ML+Engineer;Python+Expert;LLM+Fine-Tuning;Automation+Expert;FastAPI+Backend" />
 </p>
 
-
 # 👩‍💻 About Me  
 - 🎓 Fresh CSE Graduate  
 - 🚀 Currently working as a **AI Engineer** at [**Softvence**](https://softvence.agency/), building scalable AI systems, automation solutions, and backend services.  
-- 🔭 Experienced in **Machine Learning, Deep Learning, LLMs, and AI-powered automation (n8n, APIs, workflows)**  
+- 🔭 Experienced in **Machine Learning, Deep Learning, LLMs, and AI-powered automation (n8n, APIs, workflows)**
+- 🚀 Building intelligent AI systems that solve real-world problems
 - ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready applications**  
 - ⚡ In my free time, I build practical AI projects, explore new technologies, and enjoy traveling, movies, and gaming  
 
@@ -170,17 +170,6 @@ This project serves personalized movie suggestions powered by a Machine Learning
 
 ---
 
-## 🌱 Currently Working On 
-
-- Practice Python for advanced Machine learning.
-- Learning Data Science,Deep Learning and NLP 
-- Learning Artificial Intelligence Core concept 
-
-
----
-
-###
-
 
 ## 🤝 You Can Also find me here :
 
@@ -211,6 +200,16 @@ This project serves personalized movie suggestions powered by a Machine Learning
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## 📊 GitHub Analytics : 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anukul-Chandra&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anukul-Chandra&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <h4 align="center">⭐ Thanks for visiting my profile! Keep learning and analyzing 🚀</h4>
 
