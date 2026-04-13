@@ -1,14 +1,11 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Anukul Chandra</h1>
-
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+/+ML+Engineer;Python+Expert;LLM+Fine-Tuning;Automation+Expert;FastAPI+Backend" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7F5AF0&height=200&section=header&text=Hey%20there%20,%20I'm%20Anukul%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=AI+/+ML+Engineer;Building+Scalable+AI+Systems;LLM+%26+Automation+Expert;FastAPI+Backend+Developer" />
 </p>
 
 # 👩‍💻 About Me  
