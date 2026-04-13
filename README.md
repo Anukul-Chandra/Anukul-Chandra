@@ -201,6 +201,11 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ## 📊 GitHub Analytics : 
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anukul-Chandra&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Anukul-Chandra?label=Followers&style=for-the-badge&color=00BFFF"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anukul-Chandra&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
