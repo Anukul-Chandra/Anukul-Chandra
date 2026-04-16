@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=AI+/+ML+Engineer;Building+Scalable+AI+Systems;LLM+%26+Automation+Expert;FastAPI+Backend+Developer" />
 </p>
 
+
 # 👩‍💻 About Me  
 - 🎓 CSE Graduate  
 - 🚀 Currently working as an **AI Engineer** at [**Softvence**](https://softvence.agency/), building scalable AI systems, automation solutions, and backend services.  
