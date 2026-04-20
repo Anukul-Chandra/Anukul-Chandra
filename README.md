@@ -19,8 +19,8 @@
 
 
 # 🏢 Workplace 
-- 🏢 Currently working as an **AI Engineer** at [**Softvence**](https://softvence.agency/), building scalable AI systems, automation solutions, and backend services.
-  -  March 2026- present
+- 🏢 Currently working as an **AI Engineer** at [**Softvence**](https://softvence.agency/) , building scalable AI systems, automation solutions, and backend services.
+   -  March 2026- present
 ---
 
 # 🎓 Education
