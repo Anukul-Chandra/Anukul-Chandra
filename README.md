@@ -123,6 +123,10 @@
 
 # 📂 Featured Projects  
 
+## 📬 **[AI-Powered Email Automation & Lead Intelligence System](https://github.com/Anukul-Chandra/AI-Powered-Email-Automation-Lead-Intelligence-System)**
+- 🎯AI-Powered Email Automation & Lead Intelligence System :
+  → This project is a fully autonomous AI-powered email intelligence system that reads, understands, and responds to emails in real time. It routes conversations, scores leads, syncs with HubSpot, and logs data—reducing manual effort and speeding up response
+
 ## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
 - 🎯 Medico AI: Intelligent Medical Assistant :
  → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically relevant responses based on a curated knowledge base
