@@ -43,7 +43,10 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" height="40"/>
   <img width="12"/>
   <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="20"/>
 
+  <!-- Automation -->
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?logo=n8n&logoColor=white&style=for-the-badge" height="40"/>
   <img width="20"/>
 
   <!-- Backend & APIs (VERY IMPORTANT for recruiters) -->
@@ -73,9 +76,6 @@
 
   <img width="20"/>
   
-  <!-- Automation -->
-  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?logo=n8n&logoColor=white&style=for-the-badge" height="40"/>
-  <img width="20"/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/>
@@ -126,7 +126,7 @@
 
 ## 🤖📸 **[ AI-Powered Social Media Automation & Content Engine](https://github.com/Anukul-Chandra/AI-Powered-Social-Media-Automation-System/tree/main)**
 - 🎯 AI-Powered-Social-Media-Automation-System :
-  → An end-to-end n8n workflow that autonomously generates AI images & videos, crafts platform-optimized captions, and publishes daily content to Facebook and Instagram — fully on autopilot
+  → An end-to-end n8n workflow that autonomously generates AI images & videos, crafts platform-optimized captions, and publishes daily content to Facebook and Instagram — fully on autopilot .
 ---
 
 ## 📬 **[AI-Powered Email Automation & Lead Intelligence System](https://github.com/Anukul-Chandra/AI-Powered-Email-Automation-Lead-Intelligence-System)**
@@ -137,7 +137,7 @@
 
 ## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
 - 🎯 Medico AI: Intelligent Medical Assistant :
- → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically relevant responses based on a curated knowledge base
+ → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically relevant responses based on a curated knowledge base.
 ---
 
 ##  📸 **[Smart Attendance System Using Face Recognition(On Going) ](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection)**
@@ -165,7 +165,7 @@ This project serves personalized movie suggestions powered by a Machine Learning
 ---
 
 ## 👨‍⚕️ 🩺 **[ Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
- - 🍽️ A machine learning-driven web application that provides personalized cancer risk predictions. Built with FastAPI and powered by multiple ML models, this tool helps healthcare professionals and researchers analyze genetic mutation data to generate detailed cancer risk assessments..  
+ - 🍽️ A machine learning-driven web application that provides personalized cancer risk predictions. Built with FastAPI and powered by multiple ML models, this tool helps healthcare professionals and researchers analyze genetic mutation data to generate detailed cancer risk assessments. 
 
 ---
 
