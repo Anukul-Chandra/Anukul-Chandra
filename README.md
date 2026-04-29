@@ -12,10 +12,10 @@
 # 👩‍💻 About Me  
 - 🎓 CSE Graduate  
 - 🚀 Currently working as an **AI Engineer** at [**Softvence**](https://softvence.agency/) , building scalable AI systems, automation solutions, and backend services.  
-- 🔭 Experienced in **Python , Machine Learning , LLMs , RAG , and AI-powered automation (n8n, APIs, workflows)**
-- 🚀 Building intelligent AI systems that solve real-world problems
-- ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready applications**  
-- ⚡ In my free time, I build practical AI projects, explore new technologies, and enjoy traveling, movies, and gaming  
+- 🔭 Experienced in **Python , Machine Learning , LLMs , RAG , and AI-powered automation (n8n, APIs, workflows)** .
+- 🚀 Building intelligent AI systems that solve real-world problems.
+- ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready applications**  .
+- ⚡ In my free time, I build practical AI projects, explore new technologies, and enjoy traveling, movies, and gaming .
 
 
 # 🏢 Workplace 
