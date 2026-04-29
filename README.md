@@ -123,9 +123,17 @@
 
 # 📂 Featured Projects  
 
+
+## 🤖📸 **[ AI-Powered Social Media Automation & Content Engine](https://github.com/Anukul-Chandra/AI-Powered-Social-Media-Automation-System/tree/main)**
+- 🎯 AI-Powered-Social-Media-Automation-System :
+  → An end-to-end n8n workflow that autonomously generates AI images & videos, crafts platform-optimized captions, and publishes daily content to Facebook and Instagram — fully on autopilot
+---
+
 ## 📬 **[AI-Powered Email Automation & Lead Intelligence System](https://github.com/Anukul-Chandra/AI-Powered-Email-Automation-Lead-Intelligence-System)**
 - 🎯AI-Powered Email Automation & Lead Intelligence System :
   → This project is a fully autonomous AI-powered email intelligence system that reads, understands, and responds to emails in real time. It routes conversations, scores leads, syncs with HubSpot, and logs data—reducing manual effort and speeding up response
+
+---
 
 ## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
 - 🎯 Medico AI: Intelligent Medical Assistant :
