@@ -124,7 +124,12 @@
 # 📂 Featured Projects  
 
 
-## 🤖📸 **[ AI-Powered Social Media Automation & Content Engine](https://github.com/Anukul-Chandra/AI-Powered-Social-Media-Automation-System/tree/main)**
+## 🏥 **[🤖 Medico AI 2.0 — Multimodal LLM Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-2.0-Multimodal-LLM-Medical-Assistant)**
+- 🎯 Medico AI 2.0 — Multimodal LLM Medical Assistant:
+ → Medico AI 2.0 is an advanced multimodal AI-powered medical assistant designed to deliver intelligent healthcare support through a unified conversational interface. It integrates cutting-edge vision, voice, and language models to provide fast, context-aware medical insights.
+---
+
+## 📸 **[ AI-Powered Social Media Automation & Content Engine](https://github.com/Anukul-Chandra/AI-Powered-Social-Media-Automation-System/tree/main)**
 - 🎯 AI-Powered-Social-Media-Automation-System :
   → An end-to-end n8n workflow that autonomously generates AI images & videos, crafts platform-optimized captions, and publishes daily content to Facebook and Instagram — fully on autopilot .
 ---
