@@ -13,7 +13,7 @@
 - 🎓 CSE Graduate  
 - 🔭 Experienced in **Python , Machine Learning , LLM , RAG , and AI-powered automation (n8n, APIs, workflows)** .
 - 🚀 Building intelligent AI systems that solve real-world problems.
-- ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready applications**  .
+- ⚙️ Passionate about developing **FastAPI-based AI systems, intelligent workflows, and production-ready AI/ML applications**  .
 - ⚡ In my free time, I build practical AI projects, explore new technologies, and enjoy traveling, movies, and gaming .
 
 
