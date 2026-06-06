@@ -108,17 +108,102 @@
 
 </div>
 
+
 ## 🧰 Technical Expertise :
 
-- 🚀 Scalable AI Systems & Solutions  
-- 🤖 AI Automation & Workflow Engineering (n8n, APIs)  
-- 🧠 Machine Learning & Deep Learning  
-- 💬 Natural Language Processing (NLP) & LLMs  
-- ⚙️ Backend Development (FastAPI, REST APIs)  
-- 🔗 API Integration & System Design  
-- 📊 Data Science & Data Analysis  
-- 🖥️ Microcontrollers & Embedded Systems  
----
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Artificial Intelligence
+▪ LLM Applications  
+▪ RAG Systems  
+▪ Agentic AI  
+▪ Multimodal AI  
+▪ NLP Solutions  
+▪ Prompt Engineering  
+▪ Scalable AI Architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Backend Systems
+▪ FastAPI  
+▪ Flask  
+▪ REST APIs  
+▪ Microservices  
+▪ Authentication  
+▪ System Design
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔄 Automation
+▪ n8n  
+▪ AI Agents  
+▪ CRM Automation  
+▪ Lead Intelligence  
+▪ Workflow Engineering  
+▪ API Orchestration
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data Science
+▪ Data Analysis  
+▪ Data Visualization  
+▪ Statistical Analysis  
+▪ Feature Engineering  
+▪ Pandas  
+▪ NumPy
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 Machine Learning
+▪ Deep Learning  
+▪ TensorFlow  
+▪ Scikit-Learn  
+▪ Model Training  
+▪ Evaluation  
+▪ Deployment
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🖥️ Embedded Systems
+▪ Arduino  
+▪ ESP32  
+▪ IoT Development  
+▪ Sensors  
+▪ Hardware Integration  
+▪ Embedded Programming
+
+</td>
+</tr>
+
+<td width="33%" valign="top">
+
+### 💬 Natural Language Processing
+
+▪ Semantic Search  
+▪ Embedding Models  
+▪ Information Retrieval  
+▪ Text Classification  
+▪ Sentiment Analysis  
+▪ Conversational AI  
+▪ Hugging Face  
+▪ NLP Pipelines
+
+</td>
+</table>
 
 # 📂 Featured Projects  
 
