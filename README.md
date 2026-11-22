@@ -205,70 +205,68 @@
 </td>
 </table>
 
-# 📂 Featured Projects  
+# 📂 Featured Projects
 
+## 🧠 **[DocMind AI — Chat with Your Documents](https://github.com/Anukul-Chandra/DocMind-AI)**
 
-## 🏥 **[ Medico AI 2.0 — Multimodal LLM Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-2.0-Multimodal-LLM-Medical-Assistant)**
-- 🎯 Medico AI 2.0 — Multimodal LLM Medical Assistant:
- → Medico AI 2.0 is an advanced multimodal AI-powered medical assistant designed to deliver intelligent healthcare support through a unified conversational interface. It integrates cutting-edge vision, voice, and language models to provide fast, context-aware medical insights.
----
+- 🎯 DocMind AI — Chat with Your Documents :
 
-## 📸 **[ AI-Powered Social Media Automation & Content Engine](https://github.com/Anukul-Chandra/AI-Powered-Social-Media-Automation-System/tree/main)**
-- 🎯 AI-Powered-Social-Media-Automation-System :
-  → An end-to-end n8n workflow that autonomously generates AI images & videos, crafts platform-optimized captions, and publishes daily content to Facebook and Instagram — fully on autopilot .
----
-
-## 📬 **[AI-Powered Email Automation & Lead Intelligence System](https://github.com/Anukul-Chandra/AI-Powered-Email-Automation-Lead-Intelligence-System)**
-- 🎯AI-Powered Email Automation & Lead Intelligence System :
-  → This project is a fully autonomous AI-powered email intelligence system that reads, understands, and responds to emails in real time. It routes conversations, scores leads, syncs with HubSpot, and logs data—reducing manual effort and speeding up response
-
----
-
-## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
-- 🎯 Medico AI: Intelligent Medical Assistant :
- → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically relevant responses based on a curated knowledge base.
----
-
-##  📸 **[Smart Attendance System Using Face Recognition(On Going) ](https://github.com/Anukul-Chandra/Smart-Attendance-System-Using-Face-detection)**
-- 🎯 Smart Attendance System Using Face Recognition :
- → A real-time smart attendance system built using Computer Vision and Machine Learning.
-This project automatically records attendance through face recognition, prevents proxy attendance, and synchronizes records with Google Sheets using secure cloud APIs.
-
---- 
-
-##  🎬 **[Movie Recommendation System with FastAPI](https://github.com/Anukul-Chandra/Movie-Recommendation-Project-With-FastApi)**
-- 🍽️ Content Based Movie Recommend With FastApi:
-  → A production-ready Movie Recommendation Web API built using FastAPI.
-This project serves personalized movie suggestions powered by a Machine Learning model and exposes RESTful endpoints for easy integration with any frontend.
+ → DocMind AI is a full-stack RAG platform that lets you chat with your documents — upload PDFs, and it indexes them into a FAISS vector store and answers questions in plain language, grounded strictly in your corpus, with hybrid retrieval and multi-provider LLM failover.
 
  ---
 
-## 🍕 **[Sentiment Anlysis ](https://github.com/Anukul-Chandra/Sentiment-Analysis-)** 
- - 🍽️ A sentiment analysis project classifying IMDB movie reviews as positive or negative using machine learning. Includes data preprocessing, model training, and evaluation.
+ ## 🏥 **[ Medico AI 2.0 — Multimodal LLM Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-2.0-Multimodal-LLM-Medical-Assistant)**
+
+ - 🎯 Medico AI 2.0 — Multimodal LLM Medical Assistant:
+
+ → Medico AI 2.0 is an advanced multimodal AI-powered medical assistant designed to deliver intelligent healthcare support through a unified conversational 
+interface. It integrates cutting-edge vision, voice, and language models to provide fast, context-aware medical insights.
+
+ ---
+
+ ## 🤖 **[Mini AI Assistant — FastAPI RAG Service](https://github.com/Anukul-Chandra/Mini-Ai-Assistant)**
+
+ - 🎯 Mini AI Assistant — FastAPI RAG Service :
+
+ → Mini AI Assistant is a FastAPI-based RAG service that lets users upload documents, perform semantic search, and generate context-aware answers using Large Language Models.
+
+ ---
+## 🏥 **[Medico AI: Intelligent Medical Assistant](https://github.com/Anukul-Chandra/Medico-AI-Assistant-)**
+
+- 🎯 Medico AI: Intelligent Medical Assistant :
+
+ → Medico AI is an advanced, AI-powered healthcare chatbot designed to assist users with medical queries, symptom analysis, and health guidance. Unlike simple 
+rule-based bots, Medico AI utilizes Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) to provide context-aware, accurate, and medically 
+relevant responses based on a curated knowledge base.
 
 ---
 
-## 📊 **[Quora_duplicate_question_prediction](https://github.com/Anukul-Chandra/Quora_duplicate_question_prediction.git)**
- - 🍽️ NLP project to predict whether two Quora questions are duplicates using text preprocessing, feature engineering, and machine learning. It is deployed on "render ".  
+## 💬 **[Multi-Tenant Social Media Response Agent](https://github.com/Anukul-Chandra/Multi-Tenant-Social-Media-Response-Agent)**
+
+- 🎯 Multi-Tenant Social Media Response Agent :
+
+ → An AI-powered, multi-tenant agent that automates Instagram and Facebook DM responses using each company's own context, brand voice, FAQs, and business rules.
+
+ ---
+
+ ## 📣 **[BrandFlow AI — Autonomous Multi-Agent Marketing System](https://github.com/Anukul-Chandra/BrandFlow-AI---Autonomous-Multi-Agent-Marketing-System)**
+
+ - 🎯 BrandFlow AI — Autonomous Multi-Agent Marketing System :
+
+ → BrandFlow AI is a multi-agent marketing automation system built as a single n8n workflow — it turns a company's brand memory into finished campaigns, generating the idea, image and video, publishing across six platforms, and handling inbound social and email conversations automatically.
+
+ ---
+
+ ## 📬 **[AI-Powered Email Automation & Lead Intelligence System](https://github.com/Anukul-Chandra/AI-Powered-Email-Automation-Lead-Intelligence-System)**
+
+ - 🎯AI-Powered Email Automation & Lead Intelligence System :
+
+ → This project is a fully autonomous AI-powered email intelligence system that reads, understands, and responds to emails in real time. It routes 
+conversations, scores leads, syncs with HubSpot, and logs data—reducing manual effort and speeding up response
 
 ---
 
-## 👨‍⚕️ 🩺 **[ Personalized_Cancer_Prediction-Doctor_Side-](https://github.com/Anukul-Chandra/Personalized_Cancer_Prediction-Doctor_Side-.git)**
- - 🍽️ A machine learning-driven web application that provides personalized cancer risk predictions.Built with FastAPI and powered by multiple ML models, this tool helps healthcare professionals and researchers analyze genetic mutation data to generate detailed cancer risk assessments. 
-
----
-
-## 🚢🚢  **[Titanic-Passenger-Survival-Prediction-Project](https://github.com/Anukul-Chandra/Titanic-Passenger-Survival-Prediction-Project)**
- - 🍽️ A machine learning–based Flask REST API that predicts passenger survival on the Titanic using demographic and travel-related features. The project demonstrates end-to-end ML deployment by integrating a trained classification model into a Flask web service for real-time predictions.
-
----
-
-## 🏢 **[Hall Management System](https://github.com/Anukul-Chandra/Hall-Management-System)**
-- 🏠 A Hall Management System built using **Java** and **MySQL** to manage student halls efficiently.  
-  The project implements user authentication, student and employee information management, hall facilities, canteen services, and rules using structured databases, CRUD operations, and object-oriented programming principles.
-
----
-
+ 
 
 ## 🤝 You Can Also find me here :
 
